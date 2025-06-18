@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="cgi-bin\" />
+    <Folder Include="www\" />
+  </ItemGroup>
+
 </Project>
